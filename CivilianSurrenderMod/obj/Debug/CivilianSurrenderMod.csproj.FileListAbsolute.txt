@@ -1,0 +1,7 @@
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\obj\Debug\CivilianSurrenderMod.csprojAssemblyReference.cache
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\obj\Debug\CivilianSurrenderMod.csproj.CoreCompileInputs.cache
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\obj\Debug\CivilianSurrenderMod.csproj.CopyComplete
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\bin\Debug\CivilianSurrenderMod.dll
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\bin\Debug\CivilianSurrenderMod.pdb
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\obj\Debug\CivilianSurrenderMod.dll
+C:\Users\jomtek360\source\repos\CivilianSurrenderMod\npcAttacker\obj\Debug\CivilianSurrenderMod.pdb
